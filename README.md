@@ -24,6 +24,6 @@ Creating a Dashboard via tools (Looker, Metabase, etc) with the yellow taxi trip
 
 ![image](https://user-images.githubusercontent.com/124119569/225218812-47301457-f712-42fa-981a-00e82896e8a2.png)
 ## Result
-This is the result of a dashboard I made https://lookerstudio.google.com/reporting/514eea45-3c6a-49aa-ae07-3e4c56512581 from yellow taxi trip records 2019. I made two scorecard which explain the total of the passengers count and total trip distance from January until March and also a line chart which shows the everyday total passenger count and total trip distance.
+This is the result of a [dashboard](https://lookerstudio.google.com/reporting/514eea45-3c6a-49aa-ae07-3e4c56512581) I made from yellow taxi trip records 2019. I made two scorecard which explain the total of the passengers count and total trip distance from January until March and also a line chart which shows the everyday total passenger count and total trip distance.
 
 ![image](https://user-images.githubusercontent.com/124119569/225219304-aaa2f762-ffdb-4fc2-89b5-dcd8c26cfc13.png)
